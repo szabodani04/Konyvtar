@@ -1,0 +1,15 @@
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.csprojAssemblyReference.cache
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\MainWindow.g.cs
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\App.g.cs
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar_MarkupCompile.cache
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar_MarkupCompile.lref
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\bin\Debug\Konyvtar.exe.config
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\bin\Debug\Konyvtar.exe
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\bin\Debug\Konyvtar.pdb
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\MainWindow.baml
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.g.resources
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.Properties.Resources.resources
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.csproj.GenerateResource.cache
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.exe
+C:\Users\Szabó Dániel Márk\source\repos\Konyvtar\Konyvtar\obj\Debug\Konyvtar.pdb
